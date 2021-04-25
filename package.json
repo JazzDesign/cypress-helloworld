@@ -1,0 +1,15 @@
+{
+  "name": "hello-world-cypress",
+  "version": "1.0.0",
+  "description": "this is a hello world with cypress",
+  "main": "index.js",
+  "author": "Json Chicas",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^7.1.0"
+  },
+  "scripts": {
+    "test:open": "cypress open",
+    "test:run": "cypress run"
+  }
+}
